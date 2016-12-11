@@ -1,18 +1,4 @@
-/*@charset "utf-8";
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
-form,fieldset,input,textarea,p,blockquote,th,td {
-    padding: 0;
-    margin: 0;
-}
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-h1,h2,h3,h4,h5,h6 {
-    font-weight: normal;
-    font-size: 100%;
-}
-*/
+
 body {
 	background-color: #D5D3D3;
 	font-family: Arial;
@@ -26,16 +12,13 @@ body {
 .general {
 	width:950px;
 	height: 900px;
-	/*border:1px solid #0DD74B;*/
 	margin:40px auto 40px auto;
-	/*background-color: #E9E9E9;*/
 	border-radius: 40px;
 }
 
 .main {
 	width: 450px;
 	margin:0 auto;
-	/*background-color: #E9E9E9;*/
 }
 
 .general:hover {
