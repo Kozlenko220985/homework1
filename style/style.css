@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Finger+Paint');
 
-
 body {
 	background-color: #D5D3D3;
 	font-family: 'Finger Paint', cursive;
 	font-size: 12px;
 	padding: 0;
-    	margin: 0;
-	
+    margin: 0;
 }
 
 
@@ -18,10 +16,12 @@ body {
 	border-radius: 40px;
 }
 
+
 .main {
 	width: 450px;
 	margin:0 auto;
 }
+
 
 .general:hover {
 	background-color: #E1DFDF;
@@ -47,11 +47,13 @@ h1, h3 {
 	font-family: 'Finger Paint', cursive;
 }
 
+
 .goIt {
 	text-decoration: none;
 	color: #8C8888;
 	font-size: 16px;
 }
+
 
 .goIt:hover {
 	font-weight: bold;
@@ -62,14 +64,14 @@ h1, h3 {
 h3 {
 	font-size: 16px;
 	font-weight: bolder;
-	
 }
+
 
 span {
 	line-height: 25px;
 	color: #8C8888;
-
 }
+
 
 ul {
 	margin: 0 0 20px 0;
@@ -87,16 +89,19 @@ li:hover {
 	font-size: 16px;
 }
 
+
 .content{
 	border-bottom: 1px solid #8C8888;
 	margin-bottom: 20px;
 }
+
 
 .infoLink {
 	margin-left: 45px;
 	text-decoration: none;
 	color: #3849EA;
 }
+
 
 .infoLink:hover {
 	color:#2CD7E2;
